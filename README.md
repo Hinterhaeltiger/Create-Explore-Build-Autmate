@@ -15,5 +15,8 @@ There are a ton of mods in this pack, a complete list can be found [here.](https
 
 With all of these, I don't think you'll get bored very quickly. 
 
+## Where can i download the pack?
+The modpack is hosted on [Modrinth](https://modrinth.com/modpack/ceba/).
+
 ## Support
 Should you experience any mod compatibility related issues, hit me up on the [Discord server](https://discord.gg/M3sxgmxt).
